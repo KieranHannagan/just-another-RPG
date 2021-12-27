@@ -1,0 +1,27 @@
+{
+  "name": "just-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KieranHannagan/just-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KieranHannagan/just-another-RPG/issues"
+  },
+  "homepage": "https://github.com/KieranHannagan/just-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1",
+    "node": "^17.3.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
